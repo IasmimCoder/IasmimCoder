@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IasmimCoder
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Javascript, Python, (HTML, CSS)
+- 🌱 I’m currently learning Javascript, Python, (HTML, CSS), Java
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me iasmimsas@gmail.com
 
